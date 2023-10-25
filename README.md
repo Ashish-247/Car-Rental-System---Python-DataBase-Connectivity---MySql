@@ -7,3 +7,8 @@ A Car Rental System to Keep a record of
 3. To view the Data of the Customer
 
 The Data base is handled by MySQL Database using mysql.connector library in Python. 
+
+Tools Used:
+1. PyCharm
+2. mysql.connector library
+3. MySQL Workbench
